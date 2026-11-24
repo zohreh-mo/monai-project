@@ -18,7 +18,6 @@ This project demonstrates a basic medical image preprocessing pipeline using the
 - Matplotlib
 
 ## Installation
-```bash
 pip install monai torch matplotlib
 
 ## Image Source and Attribution
