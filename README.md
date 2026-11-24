@@ -23,6 +23,6 @@ pip install monai torch matplotlib
 ## Image Source and Attribution
 - **Image Source:** Nevit Dilmen, *Color Brain MRI 0284 15.jpg*, Wikimedia Commons, 2012.
 - **License:** Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0).
-- **Source URL:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Color_Brain_MRI_0284_15.jpg)
+- **Source URL:** [Nevit Dilmen's Blog](https://nevit.blogspot.com/2016/06/color-mri-of-brain.html)
 - **Image Description:** Trichromatic false-color brain MRI combining T1 (Red), PD (Green), and T2 (Blue) imaging channels.
 - **Processing:** Image preprocessing and augmentation using Python, PyTorch, and MONAI.
